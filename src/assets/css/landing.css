@@ -254,4 +254,5 @@ color: #101928;
 .testimonial-item .card {
   box-shadow: 0px 12px 28px rgba(43, 102, 160, 0.15);
 border-radius: 16px;
+padding: 40px;
 }
